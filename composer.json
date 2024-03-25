@@ -29,12 +29,14 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "ckeditor/ckeditor": "^4.17",
-        "sunhater/kcfinder": "*"
+        "ckeditor/ckeditor": "^4.24"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
         "roave/security-advisories": "dev-master"
+    },
+    "suggest": {
+        "sunhater/kcfinder": "*"
     },
     "autoload": {
         "psr-4": {
